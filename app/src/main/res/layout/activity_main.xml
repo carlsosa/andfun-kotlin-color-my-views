@@ -17,9 +17,6 @@ limitations under the License. -->
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- TODO (01) Set the default margin to 16dp -->
-
-    <!-- TODO (02) Create, align, and style Box One -->
     <TextView
         android:id="@+id/box_one_text"
         style="@style/WhiteBox"
